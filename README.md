@@ -1,2 +1,1 @@
-# design
-Diseño de WCGC
+# wcgc-website-repo
